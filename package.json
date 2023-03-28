@@ -1,0 +1,13 @@
+{
+  "name": "coner",
+  "version": "0.0.1",
+  "description": "A JavaScript library for building user interfaces",
+  "license": "MIT",
+  "keywords": [
+    "coner"
+  ],
+  "homepage": "https://github.com/conerjs/coner#readme",
+  "bugs": "https://github.com/conerjs/coner/issues",
+  "repository": "git+https://github.com/conerjs/coner.git",
+  "devDependencies": {}
+}
