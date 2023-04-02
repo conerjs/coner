@@ -1,0 +1,10 @@
+{
+  "dev/**/*.{js,cjs,ts}": ["eslint --cache --fix", "prettier --write"],
+  "bin/**/*.{js,cjs,ts}": ["eslint --cache --fix", "prettier --write"],
+  "src/**/*.{js,cjs,ts}": ["eslint --cache --fix", "prettier --write"],
+  "./*.{js,cjs,ts}": ["eslint --cache --fix", "prettier --write"],
+  "bin/**/*.{html,css}": "prettier --write",
+  "dev/**/*.{html,css}": "prettier --write",
+  "src/**/*.{html,css}": "prettier --write",
+  "./*.{json,md}": "prettier --write"
+}

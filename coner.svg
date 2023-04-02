@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <polygon fill="#C8E7FF" points="48 3 86.9711432 25.5 86.9711432 70.5 48 93 9.02885683 70.5 9.02885683 25.5"></polygon>
+    <polygon fill-opacity="0.25" fill="#0066BB" points="48 3 67.4855716 14.25 67.4855716 36.75 48 48 28.5144284 36.75 28.5144284 14.25"></polygon>
+    <polygon fill-opacity="0.35" fill="#0066BB" points="28.515 14.25 48.0005716 25.5 48.0005716 48 28.515 59.25 9.02942841 48 9.02942841 25.5"></polygon>
+    <polygon fill-opacity="0.55" fill="#0066BB" points="28.515 36.75 48.0005716 48 48.0005716 70.5 28.515 81.75 9.02942841 70.5 9.02942841 48"></polygon>
+    <polygon fill-opacity="0.75" fill="#0066BB" points="48 48 67.4855716 59.25 67.4855716 81.75 48 93 28.5144284 81.75 28.5144284 59.25"></polygon>
+    <polygon fill-opacity="0.65" fill="#0066BB" points="67.485 36.75 86.9705716 48 86.9705716 70.5 67.485 81.75 47.9994284 70.5 47.9994284 48"></polygon>
+    <polygon fill-opacity="0.45" fill="#0066BB" points="67.485 14.25 86.9705716 25.5 86.9705716 48 67.485 59.25 47.9994284 48 47.9994284 25.5"></polygon>
+  </g>
+</svg>
