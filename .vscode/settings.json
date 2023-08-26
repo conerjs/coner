@@ -1,0 +1,28 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.sortPackageJson": true,
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.indentSize": "tabSize",
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "eslint.format.enable": true,
+  "eslint.validate": ["javascript", "typescript", "typescriptreact", "javascriptreact"],
+  "files.eol": "\n",
+  "files.exclude": {
+    "**/.DS_Store": false,
+    "**/.git": false,
+    "**/.hg": false,
+    "**/.svn": false,
+    "**/CVS": false,
+    "**/Thumbs.db": false
+  },
+  "gitlens.defaultDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "gitlens.defaultDateShortFormat": "YY-MM-DD",
+  "gitlens.defaultDateLocale": null,
+  "gitlens.defaultTimeFormat": "HH:mm",
+  "typescript.tsdk": "node_modules/typescript/lib"
+}

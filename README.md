@@ -1,6 +1,6 @@
 # Coner
 
-Coner is a JavaScript library for building user interfaces.
+A JavaScript library library for building user interfaces.
 
 - Fastest
 - Smallest
